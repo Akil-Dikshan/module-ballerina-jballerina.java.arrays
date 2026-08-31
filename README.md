@@ -8,7 +8,21 @@ Ballerina Java Arrays Library
   [![GitHub Last Commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerina-jballerina.java.arrays.svg)](https://github.com/ballerina-platform/module-ballerina-jballerina.java.arrays/commits/master)
   [![Github issues](https://img.shields.io/github/issues/ballerina-platform/ballerina-standard-library/module/jballerina.java.arrays.svg?label=Open%20Issues)](https://github.com/ballerina-platform/ballerina-standard-library/labels/module%2Fjballerina.java.arrays)
 
-This library provides APIs to create new Java array instances, get elements from arrays, set elements, etc.
+Overview
+--------
+
+This module provides APIs to create new Java array instances, get elements from arrays, set elements, and convert between Ballerina and Java arrays.
+
+Key Features
+------------
+
+- Create new Java array instances
+- Get and set elements by index
+- Get the length of a Java array
+- Convert a Java array to a Ballerina array and back
+
+Module Details
+--------------
 
 #### Create a Java array instance
 ```ballerina
@@ -97,7 +111,7 @@ Execute the commands below to build from source.
    
 ## Contribute to Ballerina
 
-As an open source project, Ballerina welcomes contributions from the community. 
+As an open-source project, Ballerina welcomes contributions from the community. 
 
 For more information, go to the [contribution guidelines](https://github.com/ballerina-platform/ballerina-lang/blob/master/CONTRIBUTING.md).
 
