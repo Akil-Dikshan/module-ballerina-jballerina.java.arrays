@@ -1,21 +1,17 @@
-Ballerina Java Arrays Library
-===================
+# Ballerina Java Arrays Library
 
-Overview
---------
+## Overview
 
 This module provides APIs to create new Java array instances, get elements from arrays, set elements, and convert between Ballerina and Java arrays.
 
-Key Features
-------------
+## Key Features
 
 - Create new Java array instances
 - Get and set elements by index
 - Get the length of a Java array
 - Convert a Java array to a Ballerina array and back
 
-Module Details
---------------
+## Module Details
 
 #### Create a Java array instance
 ```ballerina
